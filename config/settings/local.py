@@ -8,4 +8,4 @@ DEBUG = env.bool('DJANGO_DEBUG', default=True)
 DEBUG_TOOLBAR_PATCH_SETTINGS = False
 MIDDLEWARE += ['config.middleware.AdaptedTo110DebugMiddleware',]
 INSTALLED_APPS += ['django_extensions','debug_toolbar',]
-INTERNAL_IPS = ['127.0.0.1',]
+INTERNAL_IPS = ['127.0.0.1', '107.170.83.208',]
