@@ -1,0 +1,359 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.globalconnections.com" resolutions="1x" timestamp="1471192658173">
+  <folder name="css">
+    <file name="site_global.css" crc="255405790"/>
+    <file name="master_main-master.css" crc="4202533037" ref="contact:resources:about-team:services:executive-leadership-read:collaborative-leadership-coachingread:coaching-read:index:consulting-read:about-vision:work:about:blog-demo"/>
+    <file name="contact.css" crc="415298829" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4245006674" ref="contact"/>
+    <file name="resources.css" crc="4159073011" ref="resources"/>
+    <file name="iefonts_resources.css" crc="3898878119" ref="resources"/>
+    <file name="about-team.css" crc="3909502361" ref="about-team"/>
+    <file name="iefonts_about-team.css" crc="4125685563" ref="about-team"/>
+    <file name="services.css" crc="4284789872" ref="services"/>
+    <file name="iefonts_services.css" crc="4112709737" ref="services"/>
+    <file name="executive-leadership-read.css" crc="3822695661" ref="executive-leadership-read"/>
+    <file name="iefonts_executive-leadership-read.css" crc="3930307430" ref="executive-leadership-read"/>
+    <file name="collaborative-leadership-coachingread.css" crc="3784810647" ref="collaborative-leadership-coachingread"/>
+    <file name="iefonts_collaborative-leadership-coachingread.css" crc="3883821518" ref="collaborative-leadership-coachingread"/>
+    <file name="coaching-read.css" crc="4170731485" ref="coaching-read"/>
+    <file name="iefonts_coaching-read.css" crc="3981646091" ref="coaching-read"/>
+    <file name="index.css" crc="13151040" ref="index"/>
+    <file name="iefonts_index.css" crc="223343670" ref="index"/>
+    <file name="consulting-read.css" crc="3954542079" ref="consulting-read"/>
+    <file name="iefonts_consulting-read.css" crc="3959363417" ref="consulting-read"/>
+    <file name="about-vision.css" crc="52794481" ref="about-vision"/>
+    <file name="iefonts_about-vision.css" crc="3821309422" ref="about-vision"/>
+    <file name="work.css" crc="3912148189" ref="work"/>
+    <file name="iefonts_work.css" crc="4166582021" ref="work"/>
+    <file name="about.css" crc="269241859" ref="about"/>
+    <file name="iefonts_about.css" crc="4234601220" ref="about"/>
+    <file name="blog-demo.css" crc="129762222" ref="blog-demo"/>
+    <file name="iefonts_blog-demo.css" crc="99824619" ref="blog-demo"/>
+  </folder>
+  <folder name="assets">
+    <file name="pr_work_01.png" crc="4275274300" seo="true" mt="1420090620000"/>
+    <file name="pr_work_03.png" crc="4051543667" seo="true" mt="1420090614000"/>
+    <file name="pr02.jpg" crc="4281173224" seo="true" mt="1418539342000"/>
+    <file name="pr03.jpg" crc="94662350" seo="true" mt="1418539358000"/>
+    <file name="pr04.jpg" crc="4091771093" seo="true" mt="1418539388000"/>
+    <file name="pr05.jpg" crc="443398192" seo="true" mt="1418539400000"/>
+    <file name="pr06.jpg" crc="131870971" seo="true" mt="1418539414000"/>
+    <file name="pr07.jpg" crc="3982393422" seo="true" mt="1418539474000"/>
+    <file name="pr08.jpg" crc="416985457" seo="true" mt="1418539486000"/>
+    <file name="pr10.jpg" crc="241082587" seo="true" mt="1418539510000"/>
+    <file name="pr11.jpg" crc="3892714416" seo="true" mt="1418582186000"/>
+    <file name="pr12.jpg" crc="267941003" seo="true" mt="1418582256000"/>
+    <file name="pr13.jpg" crc="394169174" seo="true" mt="1418539524000"/>
+    <file name="pr14.jpg" crc="412464030" seo="true" mt="1418581914000"/>
+    <file name="prod_logo_p_fluid.png" crc="4071867014" seo="true" mt="1420095982000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index:phone>services:phone>about:phone>contact:phone>about-team:tablet>index:tablet>services:tablet>about:tablet>contact:tablet>about-team:index:services:about:blog-demo:about-team:resources:about-vision"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>work:phone>services:phone>about:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>work:tablet>services:tablet>about:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>work:phone>services:phone>about:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>work:tablet>services:tablet>about:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>work:phone>services:phone>about:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>work:tablet>services:tablet>about:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="pie.js" crc="3831537696" ref="phone>services:phone>about:tablet>services:tablet>about:index:services:work:about"/>
+    <file name="form_check.php" crc="121412709" ref="phone>contact"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>contact"/>
+    <file name="form_process.php" crc="444429785" ref="phone>contact"/>
+    <file name="form-u11853.php" crc="79700310" ref="phone>contact"/>
+    <file name="form-u12377.php" crc="4191745947" ref="tablet>contact"/>
+    <file name="form-u6079.php" crc="366374280" ref="index"/>
+    <file name="form-u9151.php" crc="384550671" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="phone_menu.png" crc="238367587" ref="phone>index:tablet>index"/>
+    <file name="close_phone_prodigy.png" crc="215843184" ref="phone>index:phone>work:tablet>index:tablet>work"/>
+    <file name="u11458.png" crc="3789616453" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11458-r.png" crc="4116110565" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11450.png" crc="3955763085" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11450-r.png" crc="63097785" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11454.png" crc="304153924" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11454-r.png" crc="3910308533" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11456.png" crc="494496952" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11456-r.png" crc="526723527" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11452.png" crc="295282837" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="u11452-r.png" crc="4021905267" ref="phone>index:phone>work:phone>services:phone>about:phone>contact:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread"/>
+    <file name="gc-_blkwhitbackgroundsmaller.svg" crc="4099844694" seo="true" ref="phone>index:tablet>index"/>
+    <file name="gc _blkwhitbackgroundsmaller_poster_.png" crc="260277522" ref="phone>index"/>
+    <file name="marty-red-door.svg" crc="3811308678" seo="true" ref="phone>index"/>
+    <file name="marty red door_poster_.png" crc="4074023025" ref="phone>index"/>
+    <file name="0005_raphael-u10683-fr.jpg" crc="244136158" ref="phone>index"/>
+    <file name="0001_raphael-u10685-fr.jpg" crc="157000412" ref="phone>index"/>
+    <file name="0004_raphael-u10689-fr.jpg" crc="4018462978" ref="phone>index"/>
+    <file name="0002_raphael-u10688-fr.jpg" crc="4116195678" ref="phone>index"/>
+    <file name="phone_pr31_prod_large_hero.jpg" crc="4235916177" ref="phone>index"/>
+    <file name="0001_raphael-crop-u11241.jpg" crc="122022670" ref="phone>work"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>work:phone>services:phone>about:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>work:tablet>services:tablet>about:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:services:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="0001_raphae_bw-crop-u11338.jpg" crc="332485612" ref="phone>work"/>
+    <file name="0004_raphael-crop-u11347.jpg" crc="4188648985" ref="phone>work"/>
+    <file name="0004_raphael_bw-crop-u11356.jpg" crc="3779825349" ref="phone>work"/>
+    <file name="0005_raphael_bw-crop-u11365.jpg" crc="153685637" ref="phone>work"/>
+    <file name="0002_raphael_bw-crop-u11374.jpg" crc="206225391" ref="phone>work"/>
+    <file name="notwanted_0003_raphael-crop-u11383.jpg" crc="4549004" ref="phone>work"/>
+    <file name="0006_raphael-crop-u11392.jpg" crc="523474821" ref="phone>work"/>
+    <file name="notwanted_0003_raphaelbw-crop-u11401.jpg" crc="3950195192" ref="phone>work"/>
+    <file name="0006_raphaelbw-crop-u11410.jpg" crc="182391770" ref="phone>work"/>
+    <file name="0002_raphael-crop-u11419.jpg" crc="53464788" ref="phone>work"/>
+    <file name="0005_raphael-crop-u11428.jpg" crc="4154361502" ref="phone>work"/>
+    <file name="0001_raphael197x131.jpg" crc="294381343" seo="true" ref="phone>work"/>
+    <file name="0001_raphae_bw197x131.jpg" crc="267113494" seo="true" ref="phone>work"/>
+    <file name="0004_raphael197x131.jpg" crc="456014765" seo="true" ref="phone>work"/>
+    <file name="0004_raphael_bw197x131.jpg" crc="4237428694" seo="true" ref="phone>work"/>
+    <file name="0005_raphael_bw197x131.jpg" crc="429344149" seo="true" ref="phone>work"/>
+    <file name="0002_raphael_bw197x131.jpg" crc="3942839203" seo="true" ref="phone>work"/>
+    <file name="notwanted_0003_raphael-crop-u11386.jpg" crc="4233757924" ref="phone>work"/>
+    <file name="0006_raphael-crop-u11395.jpg" crc="12473229" ref="phone>work"/>
+    <file name="notwanted_0003_raphaelbw-crop-u11404.jpg" crc="4122272219" ref="phone>work"/>
+    <file name="0006_raphaelbw-crop-u11413.jpg" crc="370803785" ref="phone>work"/>
+    <file name="0002_raphael197x131.jpg" crc="400155536" seo="true" ref="phone>work"/>
+    <file name="0005_raphael197x131.jpg" crc="245343205" seo="true" ref="phone>work"/>
+    <file name="phone_slideshow_right_prod.png" crc="431904041" ref="phone>work:tablet>work"/>
+    <file name="phone_slideshow_left_prod.png" crc="505652357" ref="phone>work:tablet>work"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>work:phone>services:phone>about:phone>about-team:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>work:tablet>services:tablet>about:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision:services:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="0001_raphael.jpg" crc="3948245033" seo="true" ref="phone>services:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>services:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:about:resources"/>
+    <file name="0002_raphael.jpg" crc="4162272724" seo="true" ref="phone>services:phone>about:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>services:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:about-vision"/>
+    <file name="0004_raphael.jpg" crc="393508528" seo="true" ref="phone>services:phone>about:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>services:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:resources"/>
+    <file name="0005_raphael.jpg" crc="471877108" seo="true" ref="phone>services:phone>coachingread:phone>consultingread:phone>collaborativerelationshipcoachingread:phone>executiveleadershipread:tablet>services:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:about-team"/>
+    <file name="0001_raphael68x45.jpg" crc="72998675" seo="true" ref="phone>services"/>
+    <file name="0002_raphael68x45.jpg" crc="114137481" seo="true" ref="phone>services"/>
+    <file name="0004_raphael68x45.jpg" crc="4068813409" seo="true" ref="phone>services"/>
+    <file name="0005_raphael68x45.jpg" crc="3945812196" seo="true" ref="phone>services"/>
+    <file name="service_coaching-u11535-fr.jpg" crc="3816917381" ref="phone>services:tablet>services"/>
+    <file name="service_consulting.jpg" crc="238306358" ref="phone>services:tablet>services:services"/>
+    <file name="service_excutiveleadership.jpg" crc="305896428" ref="phone>services:tablet>services:services"/>
+    <file name="service_collrelationshipcoaching.jpg" crc="3955924717" ref="phone>services:tablet>services:services"/>
+    <file name="notwanted_0003_raphael.jpg" crc="7394773" seo="true" ref="phone>about:tablet>work"/>
+    <file name="notwanted_0003_raphael-crop-u11686.jpg" crc="4107021124" ref="phone>about"/>
+    <file name="refinetransparent_raphael.jpg" crc="3929536362" ref="phone>about:about"/>
+    <file name="social_icons_prodigy-dribbble_prodigy.png" crc="4115894089" seo="true" ref="phone>about:phone>about-team:tablet>about:tablet>about-team:about:about-team"/>
+    <file name="social_icons_prodigy-twitter_prodigy.png" crc="524983230" seo="true" ref="phone>about:phone>about-team:tablet>about:tablet>about-team:about:about-team"/>
+    <file name="social_icons_prodigy-facebook_prodigy.png" crc="277673951" seo="true" ref="phone>about:phone>about-team:tablet>about:tablet>about-team:about:about-team"/>
+    <file name="transparent_kitty moss.jpg" crc="4150614364" ref="phone>about"/>
+    <file name="social_icons_prodigy-flickr_prodigy.png" crc="4155838278" seo="true" ref="phone>about:phone>about-team:tablet>about:tablet>about-team:about:about-team"/>
+    <file name="team_prodigy_05.jpg" crc="185106672" ref="phone>about:tablet>about:about"/>
+    <file name="social_icons_prodigy-rss_prodigy.png" crc="528554078" seo="true" ref="phone>about:phone>about-team:tablet>about:tablet>about-team:about:about-team"/>
+    <file name="social_icons_prodigy-twitter_prodigyc.png" crc="3862707730" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="social_icons_prodigy-linkedin_prodigyc.png" crc="234861071" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="social_icons_prodigy-tumblr_prodigyc.png" crc="139145995" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="social_icons_prodigy-facebook_prodigyc.png" crc="3894436540" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="social_icons_prodigy-behance_prodigyc.png" crc="414767645" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="map_prodigy.jpg" crc="4182546788" seo="true" ref="phone>contact:tablet>contact:contact"/>
+    <file name="gc-_whitedarkbackgroundsmaller.svg" crc="109779570" seo="true" ref="phone>contact:tablet>contact:index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="gc _whitedarkbackgroundsmaller_poster_.png" crc="4014136913" ref="phone>contact"/>
+    <file name="u11867-17.png" crc="357366883" ref="phone>contact"/>
+    <file name="u11867-17-r.png" crc="3840021659" ref="phone>contact"/>
+    <file name="u11867-17-m.png" crc="3840021659" ref="phone>contact"/>
+    <file name="u11867-17-fs.png" crc="4074205663" ref="phone>contact"/>
+    <file name="marty head shot.jpg" crc="3921206304" seo="true" ref="phone>about-team:tablet>about-team"/>
+    <file name="kitty moss.jpg" crc="357603392" seo="true" ref="phone>about-team"/>
+    <file name="marty body shot.jpg" crc="4197502837" seo="true" ref="phone>about-team"/>
+    <file name="marty body shot-crop-u13908.jpg" crc="4230232194" ref="phone>about-team"/>
+    <file name="kitty moss-buttonu14042-fr.jpg" crc="354003706" ref="phone>about-team"/>
+    <file name="team_prodigy_05-buttonu14053-fr.jpg" crc="519369432" ref="phone>about-team"/>
+    <file name="u12059.png" crc="3789616453" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12059-r.png" crc="4116110565" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12054.png" crc="3955763085" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12054-r.png" crc="63097785" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12047.png" crc="304153924" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12047-r.png" crc="3910308533" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12050.png" crc="494496952" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12050-r.png" crc="526723527" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12056.png" crc="295282837" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="u12056-r.png" crc="4021905267" ref="tablet>index:tablet>work:tablet>services:tablet>about:tablet>contact:tablet>about-team:tablet>coachingread:tablet>consultingread:tablet>collaborativerelationshipcoachingread:tablet>executiveleadershipread:tablet>about-vision"/>
+    <file name="0005_raphael-u12429-fr.jpg" crc="173223166" ref="tablet>index"/>
+    <file name="0001_raphael-u12431-fr.jpg" crc="3887858342" ref="tablet>index"/>
+    <file name="0004_raphael-u12430-fr.jpg" crc="305790960" ref="tablet>index"/>
+    <file name="0002_raphael-u12432-fr.jpg" crc="3894242663" ref="tablet>index"/>
+    <file name="0001_raphael686x458.jpg" crc="324667097" seo="true" ref="tablet>work"/>
+    <file name="0001_raphae_bw686x458.jpg" crc="64628308" seo="true" ref="tablet>work"/>
+    <file name="0004_raphael686x458.jpg" crc="3979034173" seo="true" ref="tablet>work"/>
+    <file name="0004_raphael_bw686x458.jpg" crc="3819233791" seo="true" ref="tablet>work"/>
+    <file name="0005_raphael_bw695x463.jpg" crc="3945727909" seo="true" ref="tablet>work"/>
+    <file name="0002_raphael_bw.jpg" crc="371113806" seo="true" ref="tablet>work"/>
+    <file name="0006_raphael.jpg" crc="215430540" seo="true" ref="tablet>work"/>
+    <file name="notwanted_0003_raphaelbw.jpg" crc="262057002" seo="true" ref="tablet>work"/>
+    <file name="0006_raphaelbw.jpg" crc="244596293" seo="true" ref="tablet>work"/>
+    <file name="0002_raphael696x465.jpg" crc="4266814885" seo="true" ref="tablet>work"/>
+    <file name="0005_raphael686x458.jpg" crc="7222017" seo="true" ref="tablet>work"/>
+    <file name="0001_raphael-crop-u12091.jpg" crc="504126524" ref="tablet>work"/>
+    <file name="0001_raphae_bw-crop-u12085.jpg" crc="326456663" ref="tablet>work"/>
+    <file name="0004_raphael-crop-u12093.jpg" crc="44632382" ref="tablet>work"/>
+    <file name="0004_raphael_bw-crop-u12089.jpg" crc="87301175" ref="tablet>work"/>
+    <file name="0005_raphael_bw-crop-u12087.jpg" crc="3903554393" ref="tablet>work"/>
+    <file name="0002_raphael_bw-crop-u12105.jpg" crc="387733900" ref="tablet>work"/>
+    <file name="notwanted_0003_raphael-crop-u12095.jpg" crc="4034683530" ref="tablet>work"/>
+    <file name="0006_raphael-crop-u12107.jpg" crc="489702188" ref="tablet>work"/>
+    <file name="notwanted_0003_raphaelbw-crop-u12101.jpg" crc="407940430" ref="tablet>work"/>
+    <file name="0006_raphaelbw-crop-u12103.jpg" crc="4102107943" ref="tablet>work"/>
+    <file name="0002_raphael-crop-u12099.jpg" crc="397241047" ref="tablet>work"/>
+    <file name="0005_raphael-crop-u12097.jpg" crc="4020718815" ref="tablet>work"/>
+    <file name="0005_raphael_bw.jpg" crc="3945727909" seo="true" ref="tablet>about:tablet>about-team:tablet>about-vision"/>
+    <file name="0004_raphael_bw.jpg" crc="3819233791" seo="true" ref="tablet>about:tablet>about-team:tablet>about-vision"/>
+    <file name="0001_raphae_bw.jpg" crc="64628308" seo="true" ref="tablet>about:tablet>about-team:tablet>about-vision"/>
+    <file name="0005_raphael_bw68x45.jpg" crc="3969550907" seo="true" ref="tablet>about"/>
+    <file name="0004_raphael_bw68x45.jpg" crc="119747433" seo="true" ref="tablet>about"/>
+    <file name="0001_raphae_bw68x45.jpg" crc="352566598" seo="true" ref="tablet>about"/>
+    <file name="transparent_raphael.jpg" crc="402342901" ref="tablet>about"/>
+    <file name="transparent_kitty moss2.jpg" crc="181093207" ref="tablet>about:about"/>
+    <file name="u12392-17.png" crc="515230550" ref="tablet>contact"/>
+    <file name="u12392-17-r.png" crc="4131895404" ref="tablet>contact"/>
+    <file name="u12392-17-m.png" crc="4131895404" ref="tablet>contact"/>
+    <file name="u12392-17-fs.png" crc="524718110" ref="tablet>contact"/>
+    <file name="kitty moss-buttonu13607-fr.jpg" crc="271469547" ref="tablet>about-team"/>
+    <file name="team_prodigy_05-buttonu13617-fr.jpg" crc="3891768160" ref="tablet>about-team"/>
+    <file name="gototop_prodigy.png" crc="4035638663" ref="index"/>
+    <file name="green_door.jpg" crc="382128788" seo="true" ref="index"/>
+    <file name="red_door.jpg" crc="529261409" seo="true" ref="index"/>
+    <file name="gc _greywhitbackgroundsmaller1.svg" crc="3936491680" ref="index"/>
+    <file name="gc _greywhitbackgroundsmaller1_poster_u19509.png" crc="506406650" ref="index"/>
+    <file name="back_base_mucow.jpg" crc="4259497369" ref="index"/>
+    <file name="up_ex_prod_left.png" crc="533905041" ref="index"/>
+    <file name="up_ex_prod_over_left.png" crc="4032450106" ref="index"/>
+    <file name="close_ex_prod_long.png" crc="3831553949" ref="index"/>
+    <file name="prod_next-u4202.png" crc="3966445662" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u6080-17.png" crc="56742138" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u6080-17-r.png" crc="394916058" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u6080-17-m.png" crc="394916058" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u6080-17-fs.png" crc="56742138" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9244.png" crc="3789616453" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9244-r.png" crc="4116110565" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9240.png" crc="304153924" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9240-r.png" crc="3910308533" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9238.png" crc="295282837" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9238-r.png" crc="4021905267" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9242.png" crc="494496952" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9242-r.png" crc="526723527" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9236.png" crc="3955763085" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="u9236-r.png" crc="63097785" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="up_ex_prod.png" crc="357805855" ref="index"/>
+    <file name="up_ex_prod_over.png" crc="3949501617" ref="index"/>
+    <file name="close_ex_prod.png" crc="4125423105" ref="index"/>
+    <file name="flags_prodigy-usa__flag_prodigyc.jpg" crc="4235402058" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="flags_prodigy-germany_flag_prodigyc.png" crc="307272482" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="flags_prodigy-spain_flag_prodigy.jpg" crc="3927682950" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="flags_prodigy-italy_flag_prodigy.png" crc="4040599295" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="flags_prodigy-france_flag_prodigy.png" crc="4122710069" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="flags_prodigy-japan_flag_prodigyc.jpg" crc="97906047" seo="true" ref="index:services:work:about:contact:blog-demo:about-team:resources:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread:about-vision"/>
+    <file name="prodigy_se_07.jpg" crc="117302407" seo="true" ref="services:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="prodigy_se_02.jpg" crc="3856624145" seo="true" ref="services:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="prodigy_se_04.jpg" crc="3801706461" seo="true" ref="services:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="prodigy_se_05.jpg" crc="26227467" seo="true" ref="services:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="prodigy_se_0768x45.jpg" crc="180833678" seo="true" ref="services"/>
+    <file name="prodigy_se_0268x45.jpg" crc="3926769490" seo="true" ref="services"/>
+    <file name="prodigy_se_0468x45.jpg" crc="405290978" seo="true" ref="services"/>
+    <file name="prodigy_se_0568x45.jpg" crc="4224805474" seo="true" ref="services"/>
+    <file name="service_coaching-u8095-fr.jpg" crc="528574393" ref="services"/>
+    <file name="gap_prodigy.png" crc="55729633" ref="services:coaching-read:executive-leadership-read:consulting-read:collaborative-leadership-coachingread"/>
+    <file name="gap_prodigy_2.png" crc="3971932404" ref="services"/>
+    <file name="u9184-17.png" crc="3825946704" ref="contact"/>
+    <file name="u9184-17-r.png" crc="3930139721" ref="contact"/>
+    <file name="u9184-17-m.png" crc="3930139721" ref="contact"/>
+    <file name="u9184-17-fs.png" crc="233873156" ref="contact"/>
+    <file name="0001_raphael2.jpg" crc="511141419" ref="blog-demo"/>
+    <file name="team_prodigy_05-buttonu13217-fr.jpg" crc="4124820139" ref="about-team"/>
+    <file name="transparent_raphael-crop-u13321.jpg" crc="4275589171" ref="about-team"/>
+    <file name="transparent_kitty moss-crop-u13688.jpg" crc="210112767" ref="about-team"/>
+    <file name="516c0y6k4bl_sl500_aa300_.jpg" crc="183533568" seo="true" ref="resources"/>
+    <file name="prod_prev.png" crc="4177410945" ref="resources"/>
+    <file name="prod_prev_over-u13365-3-r-fr.png" crc="3929694543" ref="resources"/>
+    <file name="prod_prev_down-u13365-3-m-fr.png" crc="443793410" ref="resources"/>
+    <file name="prod_next.png" crc="3961419189" ref="resources"/>
+    <file name="prod_next_over-u13353-3-r-fr.png" crc="4215503880" ref="resources"/>
+    <file name="prod_next_down-u13353-3-m-fr.png" crc="4228637628" ref="resources"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="211077094" ref="tablet>consultingread:tablet>about-vision:tablet>executiveleadershipread:tablet>index:tablet>about:tablet>work:tablet>contact:tablet>coachingread:tablet>services:tablet>about-team:tablet>collaborativerelationshipcoachingread"/>
+      <file name="consultingread.css" crc="4082676252" ref="tablet>consultingread"/>
+      <file name="iefonts_consultingread.css" crc="273257278" ref="tablet>consultingread"/>
+      <file name="about-vision.css" crc="296269365" ref="tablet>about-vision"/>
+      <file name="iefonts_about-vision.css" crc="4118336805" ref="tablet>about-vision"/>
+      <file name="executiveleadershipread.css" crc="3876738704" ref="tablet>executiveleadershipread"/>
+      <file name="iefonts_executiveleadershipread.css" crc="489286821" ref="tablet>executiveleadershipread"/>
+      <file name="index.css" crc="5080944" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="209051656" ref="tablet>index"/>
+      <file name="about.css" crc="288867502" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="3789926881" ref="tablet>about"/>
+      <file name="work.css" crc="3883260225" ref="tablet>work"/>
+      <file name="iefonts_work.css" crc="4208488458" ref="tablet>work"/>
+      <file name="contact.css" crc="3960310210" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="3796151075" ref="tablet>contact"/>
+      <file name="coachingread.css" crc="4107899614" ref="tablet>coachingread"/>
+      <file name="iefonts_coachingread.css" crc="140263864" ref="tablet>coachingread"/>
+      <file name="services.css" crc="3924146198" ref="tablet>services"/>
+      <file name="iefonts_services.css" crc="3851296989" ref="tablet>services"/>
+      <file name="about-team.css" crc="3825598900" ref="tablet>about-team"/>
+      <file name="iefonts_about-team.css" crc="90037585" ref="tablet>about-team"/>
+      <file name="collaborativerelationshipcoachingread.css" crc="3812749206" ref="tablet>collaborativerelationshipcoachingread"/>
+      <file name="iefonts_collaborativerelationshipcoachingread.css" crc="172762583" ref="tablet>collaborativerelationshipcoachingread"/>
+    </folder>
+    <file name="index.html" crc="4180725944" seo="true" mt="1458936730387" redirect="true"/>
+    <file name="work.html" crc="3805413953" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="services.html" crc="4239127190" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="about.html" crc="198541872" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="contact.html" crc="160444630" seo="true" mt="1458936755596" redirect="true"/>
+    <file name="about-team.html" crc="4040227461" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="coachingread.html" crc="362159386" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="consultingread.html" crc="277125624" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="collaborativerelationshipcoachingread.html" crc="145678578" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="executiveleadershipread.html" crc="442367387" seo="true" mt="1458936704797" redirect="true"/>
+    <file name="about-vision.html" crc="4101628659" seo="true" mt="1458936704797" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4125618035" ref="phone>work:phone>collaborativerelationshipcoachingread:phone>index:phone>about:phone>executiveleadershipread:phone>services:phone>contact:phone>coachingread:phone>about-team:phone>consultingread"/>
+      <file name="work.css" crc="71945041" ref="phone>work"/>
+      <file name="iefonts_work.css" crc="4260169139" ref="phone>work"/>
+      <file name="collaborativerelationshipcoachingread.css" crc="199554753" ref="phone>collaborativerelationshipcoachingread"/>
+      <file name="iefonts_collaborativerelationshipcoachingread.css" crc="420422438" ref="phone>collaborativerelationshipcoachingread"/>
+      <file name="index.css" crc="23956944" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="9631172" ref="phone>index"/>
+      <file name="about.css" crc="3889517715" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="346967354" ref="phone>about"/>
+      <file name="executiveleadershipread.css" crc="55051477" ref="phone>executiveleadershipread"/>
+      <file name="iefonts_executiveleadershipread.css" crc="3788897374" ref="phone>executiveleadershipread"/>
+      <file name="services.css" crc="3930028418" ref="phone>services"/>
+      <file name="iefonts_services.css" crc="3786508627" ref="phone>services"/>
+      <file name="contact.css" crc="3878794696" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="61095275" ref="phone>contact"/>
+      <file name="coachingread.css" crc="299222285" ref="phone>coachingread"/>
+      <file name="iefonts_coachingread.css" crc="249476201" ref="phone>coachingread"/>
+      <file name="about-team.css" crc="63991604" ref="phone>about-team"/>
+      <file name="iefonts_about-team.css" crc="4292649228" ref="phone>about-team"/>
+      <file name="consultingread.css" crc="495487225" ref="phone>consultingread"/>
+      <file name="iefonts_consultingread.css" crc="354874756" ref="phone>consultingread"/>
+    </folder>
+    <file name="index.html" crc="3971186120" seo="true" mt="1458938868857" redirect="true"/>
+    <file name="work.html" crc="374349225" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="services.html" crc="3967216457" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="about.html" crc="117681295" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="contact.html" crc="4012119176" seo="true" mt="1458936811449" redirect="true"/>
+    <file name="about-team.html" crc="3924551712" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="coachingread.html" crc="392683707" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="consultingread.html" crc="4144804180" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="collaborativerelationshipcoachingread.html" crc="2162577" seo="true" mt="1458926172460" redirect="true"/>
+    <file name="executiveleadershipread.html" crc="4124332515" seo="true" mt="1458926172460" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3792757153" seo="true" mt="1458943385243" redirect="true"/>
+  <file name="services.html" crc="3835628777" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="work.html" crc="4209280954" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="about.html" crc="462058119" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="contact.html" crc="499590128" seo="true" mt="1458936686785" redirect="true"/>
+  <file name="blog-demo.html" crc="173049299" seo="true" mt="1469725899338" redirect="true"/>
+  <file name="about-team.html" crc="3887506108" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="resources.html" crc="419213868" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="coaching-read.html" crc="7656065" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="executive-leadership-read.html" crc="4026010763" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="consulting-read.html" crc="4242818639" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="collaborative-leadership-coachingread.html" crc="35646031" seo="true" mt="1458936639900" redirect="true"/>
+  <file name="about-vision.html" crc="3902631495" seo="true" mt="1458936639900" redirect="true"/>
+</manifest>
